@@ -11,3 +11,4 @@ Repository for source snapshots and reviewed server-side patches for the Trialum
 - v47 keeps Age Signals dormant, preserves social play, and requires server enforcement of preset-only player messaging.
 
 See [`ROADMAP.md`](ROADMAP.md) for the v47 plan and source-import status.
+See [the cloud migration gate](docs/CLOUD_MIGRATION_BEFORE_CLOSED_TEST.md) for the required pre-Closed-Test home-to-cloud transition and legacy-client compatibility plan.
